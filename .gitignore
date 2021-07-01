@@ -1,4 +1,4 @@
-covid19_tweets.csv
-covid19_tweets_snscrape.csv
-text-query-tweets.json
-nlp_covid19_twitter_data_tweepy.py
+covid19_tweets_cleaned.csv
+covid19_tweets_cleaned.pkl
+covid19_tweets_snscrape_daily.csv
+2_nlp_covid19_data_tweepy_secret.py
